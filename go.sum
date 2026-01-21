@@ -2,3 +2,5 @@ github.com/laksmanayudha/go-say-hello v1.0.0 h1:d0sHZPaY4sdhsIGhPekyGUGw9RqqDgix
 github.com/laksmanayudha/go-say-hello v1.0.0/go.mod h1:rViTuIpCq09MUPC+IreAYTpNh1Q131EdyAXQpBpBtXM=
 github.com/laksmanayudha/go-say-hello v1.5.0 h1:/RkHCb3/US2LbOcZfwFdY+zIkQKpShFCbfP0RWsJIFU=
 github.com/laksmanayudha/go-say-hello v1.5.0/go.mod h1:rViTuIpCq09MUPC+IreAYTpNh1Q131EdyAXQpBpBtXM=
+github.com/laksmanayudha/go-say-hello/v2 v2.0.0 h1:vTzTxHzFHBwJGIbSlcvQ+ctWzr6rfE6e+/25xYymFUA=
+github.com/laksmanayudha/go-say-hello/v2 v2.0.0/go.mod h1:4VVKSSueaBRw00ya3nhqcDwgAv1yEiRyTKTGrjpv+2c=
